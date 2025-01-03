@@ -77,7 +77,3 @@ The project uses a MySQL database with the following two tables:
 
 ---
 
-## **Contributors**  
-- **Sakshi Dinkar Patil**  
-
----
